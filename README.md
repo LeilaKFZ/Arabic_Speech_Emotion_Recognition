@@ -1,1 +1,2 @@
-# Speech_Emotion_Recognition
+# Arabic_Speech_Emotion_Recognition
+## Using BAVED dataset
